@@ -20,4 +20,5 @@ int main(){
         }
     }
    cout<<"Maximum value out of all is:"<<max<<endl;
+    return 0;
 }

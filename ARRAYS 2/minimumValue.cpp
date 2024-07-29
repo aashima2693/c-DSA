@@ -20,4 +20,5 @@ int main(){
         }
     }
    cout<<"Minimum value out of all is:"<<min<<endl;
+   return 0;
 }
